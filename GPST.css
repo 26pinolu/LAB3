@@ -1,4 +1,4 @@
-body {background-image: url(assets/sky.png);
+body {background-image: url(sky.png);
 	  font-family: Helvetica, Arial, sans-serif; 
 	  background-repeat: no-repeat;
 		color:#666666;}
@@ -53,4 +53,5 @@ ul{list-style-image: url(marker.gif);}
 		   background-size: 100% 100%;
 }
 #contact {font-size: 90%;}
+
 
